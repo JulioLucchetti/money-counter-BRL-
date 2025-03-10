@@ -13,7 +13,7 @@ float cc = 0.05, dc = 0.10, vc = 0.25, ccc = 0.50, um = 1, d = 2, cn = 5, dd = 1
 //SAUDAÇÕES//
   cout << "Seja bem vindo ao assitente de conferencia de caixa"<<endl;
   cout << "" <<endl;
-  cout << "By: Bresser.Inc - Github: https://github.com/BresserMooca" <<endl;
+  cout << "By: JulioLucchetti - Github: https://github.com/JulioLucchetti" <<endl;
   cout << "" <<endl;
   cout << "Um presente para a Happen Idiomas" << endl;
   cout << "" <<endl;
